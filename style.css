@@ -39,10 +39,13 @@ h1 {
 
 .cor2 {
     background-color: #63B1BC;
+    order: 3;
+    align-self: flex-end;
 }
 
 .cor3 {
     background-color: #EFB661;
+    align-self: center;
 }
 
 .instrucoes {
